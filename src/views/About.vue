@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>L'application de la poulailler</h1>
+    <p>
+      Idée originale : Camille
+      Réalisation : Christophe
+    </p>
   </div>
 </template>
